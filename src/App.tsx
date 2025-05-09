@@ -51,6 +51,7 @@ const App = (props: Props) => {
       {path:"/",element:<AdminLayout/>,children:[
      
       ]},
+      // quân test git xem như thế nào
   ])
   return routes
 }
